@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="808"
+   height="632"
+   viewBox="0 0 213.78333 167.21667"
+   version="1.1"
+   id="svg941"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   sodipodi:docname="behance-cover.svg"
+   inkscape:export-filename="/Users/darshakparikh/Projects/alt-book-covers/behance-cover.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs935" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#eeeeee"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="404"
+     inkscape:cy="316"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="923"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata938">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path851"
+       style="fill:none;stroke:#b3b3b3;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 48.418748,57.94375 v 42.33334 m 2e-6,0 c 18.180612,-4.63305 26.18254,1.43226 29.104166,8.20208 M 48.41875,57.94375 c 18.180612,-4.633046 26.18254,1.432258 29.104166,8.202083" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.11110000000000042px;line-height:1;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=600';font-variation-settings:'wght' 600;fill:#525252;fill-opacity:1;stroke-width:0.264583;"
+       x="106.79245"
+       y="79.736908"
+       id="text843"><tspan
+         sodipodi:role="line"
+         id="tspan841"
+         x="106.79245"
+         y="79.736908"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11110000000000042px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro Medium';text-align:center;text-anchor:middle;fill:#525252;fill-opacity:1;stroke-width:0.264583;">Alternative</tspan><tspan
+         sodipodi:role="line"
+         x="106.79245"
+         y="94.043312"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11110000000000042px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro Medium';text-align:center;text-anchor:middle;fill:#525252;fill-opacity:1;stroke-width:0.264583;"
+         id="tspan845">Book Covers</tspan></text>
+    <path
+       id="path854"
+       style="fill:none;stroke:#b3b3b3;stroke-width:1.05833333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 166.90881,57.94375 v 42.33334 m -10e-6,0 c -18.18062,-4.63305 -26.18255,1.43226 -29.10418,8.20208 M 166.9088,57.94375 c -18.18062,-4.633046 -26.18255,1.432258 -29.10418,8.202083" />
+  </g>
+</svg>
